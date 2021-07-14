@@ -1,0 +1,131 @@
+{
+    "profile": {
+      "name":"Pradipta Shrestha",
+      "title":"Software Engineer",
+      "description":"Future Space Explorer",
+      "pic":"bio.png",
+      "bio":"Super passionate about Space exploration.",
+      "quote":"If our long-term survival is at stake, we have a basic responsibility to our species to venture to other worlds...",
+      "author": "Dr. Carl Sagan",
+      "email": "",
+      "phone": "",
+      "address":{
+        "street":"",
+        "city":"Fort Worth",
+        "state":"TX",
+        "zip": ""
+      },
+      "website": "https://pradipta.space",
+      "resume":"#",
+      "social":[
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/pradipta-shrestha-59026242",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"github",
+          "url":"http://github.com/supernovabirth",
+          "className":"fa fa-github"
+        },
+        {
+          "name":"bitcoin",
+          "url":"https://angel.co/u/pradipta-shrestha",
+          "className":"fa fa-bitcoin"
+        },
+        {
+          "name":"twitter",
+          "url":"https://twitter.com/pradiptainspace",
+          "className":"fa fa-twitter"
+        }
+      ]
+    },
+    "resume":{
+      "education":[
+        {
+          "school":"University of Texas at Arlington",
+          "degree":"Bachelor of Science in Software Engineering",
+          "graduated":"December 2017",
+          "courses":"Algorithms, Software Design Patterns, "
+        }
+      ],
+      "work":[
+        {
+          "company":"Cowtown Software LLC",
+          "title":"CEO/Chief Software Engineer",
+          "years":"Summer 2014 - Present",
+          "description":"Software Solutions for small businesses and startups!"
+        },
+        {
+          "company":"PDX Inc.",
+          "title":"Software Developer",
+          "years":"Jan 2017 - Aug 2017",
+          "description":"Developed HIPAA secure apps for use in pharmaceutical industry."
+        },
+        {
+          "company":"Fidelity Investments",
+          "title":"Software Engineer",
+          "years":"May 2017 - Aug 2017",
+          "description":"Solving software engineering problems for use in Fintech industry."
+        }
+      ],
+      "skills":[
+        {
+          "name":"Java",
+          "level":"87%"
+        },
+        {
+          "name":"Spring/Spring Boot",
+          "level":"78%"
+        },
+        {
+          "name":"Node.JS",
+          "level":"60%"
+        },
+        {
+          "name":"React.JS",
+          "level":"60%"
+        },
+        {
+          "name":"CSS3",
+          "level":"90%"
+        },
+        {
+          "name":"HTML5",
+          "level":"90%"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"SEDS-Nepal",
+          "description":"Advise/sponsor space related technical projects at this national level student organization in Nepal.",
+          "category":"Space",
+          "tags":"Space, Founder",
+          "image":"sedsnepal.png",
+          "url":"http://sedsnepal.org",
+          "modal":"#modal-01"
+        },
+        {
+          "title":"Cowtown Software",
+          "description":"Software Solutions and Web Development for startups and small businesses!",
+          "category":"Software",
+          "tags":"Software, Web Development, Startups",
+          "image":"cowtownsoftware.png",
+          "url":"http://cowtownsoftware.com",
+          "modal":"#modal-02"
+        },
+        {
+          "title":"SpaceUp-DFW",
+          "description":"Organize SpaceUp Unconference in Dallas-Fort Worth area",
+          "category":"Space",
+          "tags":"Space, Startups",
+          "image":"spaceupdfw.jpg",
+          "url":"http://spaceupdfw.com",
+          "modal":"#modal-03"
+        }
+      ]
+    }
+  }
+  
